@@ -1,21 +1,29 @@
 body {
-	font-family: 'Lato', sans-serif;
+	font-family: "Lato", sans-serif;
 	color: #676858;
 	font-weight: 300;
 }
 
-.text-muted{
-	color: #BC8888;
+.text-muted {
+	color: #bc8888;
 }
 
-.text-thin{
+.text-thin {
 	font-weight: 100;
 }
 
-.title-super{
+.title-super {
 	font-size: 60px;
 }
 
-.title-logo{
+.title-logo {
 	margin-top: 20px;
+}
+
+@media screen and (min-width: 800px){
+	body{
+		width:800px;
+		margin-right: auto;
+		margin-left: auto;
+	}
 }
