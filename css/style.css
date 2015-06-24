@@ -1,4 +1,4 @@
-body{
+body {
 	font-family: "Lato", sans-serif;
 	color: #676858;
 	font-weight: 300;
@@ -20,7 +20,7 @@ body{
 	margin-top: 20px;
 }
 
-.clickable:hover{
+.clickable:hover {
 	cursor: pointer;
 	opacity: 0.4;
 
